@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Jonas Pilgaard Kaiser</title>
-    <link>/publication-type/3/</link>
-      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Social Preferences | Jonas Pilgaard Kaiser</title>
+    <link>/tag/social-preferences/</link>
+      <atom:link href="/tag/social-preferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Preferences</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>3</title>
-      <link>/publication-type/3/</link>
+      <title>Social Preferences</title>
+      <link>/tag/social-preferences/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/growth-and-inequality/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       <guid>/publication/growth-and-inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does Goal Revision Undermine Self-Regulation Through Goals? An Experiment</title>
-      <link>/publication/does-goal-revision-undermine-self-regulation-through-goals/</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/does-goal-revision-undermine-self-regulation-through-goals/</guid>
       <description></description>
     </item>
     
