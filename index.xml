@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonas Pilgaard Kaiser</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jonas Pilgaard Kaiser</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Growth and Inequality: Experimental Evidence on How Misperceptions Affect Redistribution</title>
       <link>/publication/growth-and-inequality/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       <guid>/publication/growth-and-inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did Russia&#39;s Invasion of Ukraine Reduce Affective Polarization in the U.S.? Experimental Evidence</title>
+      <link>/publication/did-russias-invasion/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/did-russias-invasion/</guid>
       <description></description>
     </item>
     
