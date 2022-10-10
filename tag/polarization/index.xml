@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polarization | Jonas Pilgaard Kaiser</title>
+    <link>/tag/polarization/</link>
+      <atom:link href="/tag/polarization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Polarization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Polarization</title>
+      <link>/tag/polarization/</link>
+    </image>
+    
+    <item>
+      <title>Did Russia&#39;s Invasion of Ukraine Reduce Affective Polarization in the U.S.? Experimental Evidence</title>
+      <link>/publication/did-russias-invasion/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/did-russias-invasion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
