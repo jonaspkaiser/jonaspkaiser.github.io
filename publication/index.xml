@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Bluffing in Charitable Giving – An Experiment on Indirect Signalling</title>
+      <link>/publication/indirect-signalling/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/indirect-signalling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Does Goal Revision Undermine Self-Regulation Through Goals? An Experiment</title>
@@ -33,14 +41,6 @@
       <link>/publication/did-russias-invasion/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       <guid>/publication/did-russias-invasion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bluffing in Charitable Giving – An Experiment on Indirect Signalling</title>
-      <link>/publication/indirect-signalling/</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/indirect-signalling/</guid>
       <description></description>
     </item>
     
