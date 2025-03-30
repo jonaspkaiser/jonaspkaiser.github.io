@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Identity | Jonas Pilgaard Kaiser</title>
+    <link>/tag/social-identity/</link>
+      <atom:link href="/tag/social-identity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Identity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Social Identity</title>
+      <link>/tag/social-identity/</link>
+    </image>
+    
+    <item>
+      <title>How Does In-Group Observation Influence Intergroup Cooperation? Experimental Evidence from Papua New Guinea</title>
+      <link>/publication/papua/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/papua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do External Threats Reduce Affective Polarization? An Experiment on Russia&#39;s Invasion of Ukraine</title>
+      <link>/publication/did-russias-invasion/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/did-russias-invasion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
